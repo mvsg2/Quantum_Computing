@@ -4,5 +4,7 @@ Exploring the world of quantum mechanics passed down from generations, and the t
 #### Installing Qiskit SDK 
 `pip install qiskit` (check out [Qiskit's page](https://qiskit.org/documentation/getting_started.html) for more detail-specific instructions).
 
+You may also want to setup your `pylatexenc` library to be able to see quantum circuits with `matplotlib` backend: `pip install pylatexenc`
+
 #### Installing Pennylane SDK 
 `pip install pennylane` (check out [Pennylane's page](https://pennylane.ai/install.html) for more detail-oriented instructions).
