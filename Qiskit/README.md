@@ -3,5 +3,8 @@
 
 ### Installation
 Pull up a command prompt terminal (any command line interface connected to the internet) and type: `pip install qiskit`
+
 #### Linux-based Operating Systems
 If the terminal does not recognize the Python's package installation manager `pip`, then it is recommended to install the latest version of the Python (3.x) first in the system with the root privileges: `sudo apt-get install python3` and then install Qiskit by the above command. 
+
+You may also want to setup your `pylatexenc` library to be able to see quantum circuits with `matplotlib` backend: `pip install pylatexenc`
